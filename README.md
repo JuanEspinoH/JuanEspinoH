@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Juan Espino</h1>
 <h3 align="center">A passionate full stack developer from Mexico</h3>
 
-- 🔭 I’m currently working on [Workland](https://github.com/Irvin-Mx/workland)
+- 🔭 I’m currently working on [WorkLand](https://github.com/JuanEspinoH/WorkLand)
 
 - 🌱 I’m currently learning **Websockets with SocketIO and flask_socketio**
 

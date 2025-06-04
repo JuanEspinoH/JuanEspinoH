@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Juan Espino</h1>
-<h3 align="center">CSS hates me</h3>
+<h3 align="center">CSS is cool</h3>
 
 - 🔭 I’m currently working on [WorkLand](https://github.com/JuanEspinoH/WorkLand)
 
